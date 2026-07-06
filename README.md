@@ -121,6 +121,26 @@ All generated images are saved in the **images** folder.
 
 ---
 
+## Visualizations
+
+### Survival by Gender
+
+![Survival by Gender](images/survival_gender.png)
+
+### Survival by Passenger Class
+
+![Survival by Passenger Class](images/survival_class.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/heatmap.png)
+
+### Age Distribution
+
+![Age Distribution](images/age_distribution.png)
+
+---
+
 ## Author
 
 **Swetha C**
